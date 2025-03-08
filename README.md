@@ -99,8 +99,5 @@ Bot hỗ trợ các lệnh sau:
 
 ## Tác Giả
 
-[Tên Tác Giả]
+Huỳnh Tấn Lộc
 
-## Giấy Phép
-
-ISC 
